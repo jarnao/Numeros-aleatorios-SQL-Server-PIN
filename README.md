@@ -5,7 +5,7 @@ Números aleatorios SQL Server (PIN)
 ===================================
 
 Generar números aleatorios en SQL Server, PIN(Personal Identification Number)<br />
-con una longitud de diez dígitos.
+Los números generados tienen una longitud de diez dígitos.
 
 Configuración
 =============
