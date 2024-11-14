@@ -1,5 +1,5 @@
 -- =============================================
--- Author:		<Jose Arnao | jarnao@msn.com>
+-- Author:		<Arnao | jarnao@msn.com>
 -- Create date: <2013-01-14>
 -- Description:	<Generar números aleatorios en SQL Server, PIN (Personal Identification Number)
 --               Los números generados tienen una longitud de diez dígitos.>
