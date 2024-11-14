@@ -1,5 +1,5 @@
 Code is under the MIT License<br />
-Copyright (c) 2013 José Arnao
+Copyright (c) 2013 Arnao
 
 Números aleatorios SQL Server (PIN)
 ===================================
