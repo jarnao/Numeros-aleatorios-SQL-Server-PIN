@@ -1,4 +1,4 @@
-Copyright (c) 2013 Arnao
+Copyright (c) 2013
 
 Números aleatorios SQL Server (PIN)
 ===================================
