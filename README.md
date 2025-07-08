@@ -1,4 +1,3 @@
-Code is under the MIT License<br />
 Copyright (c) 2013 Arnao
 
 Números aleatorios SQL Server (PIN)
